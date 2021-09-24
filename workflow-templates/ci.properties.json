@@ -1,0 +1,11 @@
+{
+    "name": "Build and test colcon",
+    "description": "Continuous integration for colcon repositories",
+    "iconName": "colcon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "setup.cfg"
+    ]
+}
